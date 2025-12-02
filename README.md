@@ -11,7 +11,7 @@ http://dl.sg.gy
 ✨ 核心功能
 
 · 一键生成短链：将复杂的长链接瞬间转化为简洁、易记、易分享的短链接。
-· 自定义短码：支持设置个性化的后缀（开发中）（如 yourbrand.cn/event2024），强化品牌形象。
+· 自定义短码：支持设置个性化的后缀（开发中）（如 yourbrand.cn/event2025） 强化品牌形象。
 · 深度数据统计：
   · 实时点击量：监控链接的实时访问情况。
   · 地域分析：了解访问者的地域分布。
@@ -34,3 +34,8 @@ http://dl.sg.gy
 · 简单易用：直观的用户界面，无需技术背景即可轻松上手。
 
 🚀 快速开始
+
+## The database configuration changes the includes/functions. PHP here, and the background password is modified in the admin. PHP. 
+##Demo Site http://dl.sg.gy
+
+##Introduction Digital fruit short chain-intelligent short link management and data insight platform Shuguo Short Link is a platform focusing on providing high-performance, traceable and easy-to-manage short link generation and data analysis services for enterprises and individuals.We not only shorten the lengthy URL, but also focus on mining the value of every click behind the link for you. Core functions · Generate short links with one click: instantly turn complex long links into concise, easy-to-remember and easy-to-share short links. · Custom short code: Support the setting of personalized suffixes (under development) (such as yourbrand. CN/event2025) to strengthen the brand image. · Depth data statistics: · Real-time clicks:Monitor real-time access to links. · Geographical analysis: understand the geographical distribution of visitors. · Devices and browsers: Analyze the types of devices and browsers used by users. · Source tracking: Identify whether traffic comes from social media, email, or direct access. · Link security management: Application scenario · Marketing promotion: track the effectiveness of social media, advertising emails and offline posters, and optimize marketing strategies. · Content creation: Use in blogs, video descriptions, and podcast notes to make sharing more beautiful and understand readers' interests
